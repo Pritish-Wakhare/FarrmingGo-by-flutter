@@ -222,7 +222,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
                 ),
 
-                Text('Designed by Team ✨FarmingGo✨', textAlign: TextAlign.end , ),
+
+                Text('Designed by ✨PriTish Wakhare ✨', textAlign: TextAlign.end , ),
 
 
 
