@@ -22,5 +22,5 @@ You can download APK file by clicking below link:
   
 Here are some glance to my app:
 
-![image](https://user-images.githubusercontent.com/59397280/113414452-a8424100-93da-11eb-80ef-50cc24873dac.png)                                                                       ![image](https://user-images.githubusercontent.com/.png)
+![image](https://github.com/Pritish-Wakhare/FarrmingGo-by-flutter/blob/master/screenshot/Screenshot_1619698956.png)                                                                  ![image](https://user-images.githubusercontent.com/.png)
 
