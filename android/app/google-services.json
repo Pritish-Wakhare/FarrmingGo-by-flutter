@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295876340989",
+    "firebase_url": "https://farm-740ca.firebaseio.com",
+    "project_id": "farm-740ca",
+    "storage_bucket": "farm-740ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295876340989:android:241d394a56b2dd4738a294",
+        "android_client_info": {
+          "package_name": "com.neha.farmfresheasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295876340989-qrko6rkm2pkcidt620k8dvcoj360paca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMdgBf67Xz-6nmjSLRCtn588vns7pdMBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295876340989-qrko6rkm2pkcidt620k8dvcoj360paca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
